@@ -1,0 +1,214 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Aravena e Delazari 2021]{aravera2021}
+\abntrefinfo{Aravena e Delazari}{ARAVENA; DELAZARI}{2021}
+{ARAVENA, C.~A.; DELAZARI, L.~S. \normalfont{Desenvolvimento de aplicativo para
+  aux{\'i}lio {\`a} navega{\c{c}}{\~a}o em ambientes internos}.
+\emph{\normalfont \textbf{Revista Brasileira de Cartografia}, [\textit{s. l.}],
+  v. 73, n. 2}, p. 530-541, 2021.}
+
+\bibitem[Barros 2016]{barros2016}
+\abntrefinfo{Barros}{BARROS}{2016}
+{BARROS, A. C. G. D.~A. \textbf{Proposta de T{\'e}cnica de
+  Localiza{\c{c}}{\~a}o Interna para dispositivos m{\'o}veis utilizando redes
+  locais sem fio}. 2016.
+\emph{\normalfont Disserta{\c{c}}{\~a}o de Mestrado (Mestrado em Ci{\^e}cia da
+  Computa{\c{c}}{\~a}o) -- Universidade Federal de Pernambuco}, Recife, PE,
+  2016.}
+
+\bibitem[Berz 2015]{berz2015}
+\abntrefinfo{Berz}{BERZ}{2015}
+{BERZ, E.~L. \textbf{Sistema H{\'i}brido de localiza{\c{c}}{\~a}o
+  \textit{indoor} baseado em RFID e an{\'a}lise visual}. 2015.
+\emph{\normalfont Tese (Doutorado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o) --
+  Pontif{\'i}cia Universidade Cat{\'o}lica do Rio Grande do Sul}, Porto Alegre,
+  RS, 2015.}
+
+\bibitem[Gadhgadhi, Hachaichi e Zairi 2020]{gadhgadhi2020}
+\abntrefinfo{Gadhgadhi, Hachaichi e Zairi}{GADHGADHI; HACHAICHI; ZAIRI}{2020}
+{GADHGADHI, A.; HACHAICHI, Y.; ZAIRI, H. \normalfont{A Machine Learning based
+  Indoor Localization}.
+\emph{\normalfont \textbf{4th International Conference on Advanced Systems and
+  Electric Technologies - IC{\_}ASET}, Tunisia}, p. 33-38, 2020.
+Dispon{\'\i}vel em: \url{https://ieeexplore.ieee.org/document/9318284}. Acesso
+  em: 17 jul. 2021.}
+
+\bibitem[Kaczmarek, Ruminski e Bujnowski 2016]{kaczmarek2016}
+\abntrefinfo{Kaczmarek, Ruminski e Bujnowski}{KACZMAREK; RUMINSKI;
+  BUJNOWSKI}{2016}
+{KACZMAREK, M.; RUMINSKI, J.; BUJNOWSKI, A. \normalfont{Accuracy analysis of
+  the RSSI BLE Sensor Tag signal for indoor localization purposes}.
+\emph{\normalfont \textbf{Federated Conference on Computer Science and
+  Information Systems - FedCSIS}, Gdanshk, v. 8}, p. 1413-1416, 2016.}
+
+\bibitem[Khalel 2010]{khalel2010}
+\abntrefinfo{Khalel}{KHALEL}{2010}
+{KHALEL, A. M.~H. \textbf{Position Location Techniques in Wireless
+  Communication Systems}. 2010.
+\emph{\normalfont Master Thesis (Electrical Engineering Emphasis on
+  Telecommunications) -- School of Engineering Blekinge Institute of
+  Technology}, Karlskrona, Sweden, 2010.}
+
+\bibitem[Krause 2018]{krause2018}
+\abntrefinfo{Krause}{KRAUSE}{2018}
+{KRAUSE, D.~R. \textbf{Sistemas de Localiza{\c{c}}{\~a}o}:
+  \normalfont{Explorando a IPS - Beacons}. 2018.
+\emph{\normalfont Monografia (Curso de Ci{\^e}cia da Computa{\c{c}}{\~a}o) --
+  Universidade Regional de Blumenau - FURB}, Blumenau, SC, 2018.}
+
+\bibitem[Lantz 2013]{lantz2013}
+\abntrefinfo{Lantz}{LANTZ}{2013}
+{LANTZ, B. \emph{\normalfont \textbf{Machine Learning with R}.} Birmingham:
+  Packt Publishing Ltd, 2013.}
+
+\bibitem[Lima \emph{et al.} 2020]{lima2020}
+\abntrefinfo{Lima \emph{et al.}}{LIMA \emph{et al.}}{2020}
+{LIMA, S. J.~R. \emph{et al.} \normalfont{Tecnologias Assistivas de
+  Orienta{\c{c}}{\~a}o e Mobilidade para PCDV: Uma Revis{\~a}o Sistem{\'a}tica
+  da Literatura Brasileira}.
+\emph{\normalfont \textbf{Conte{\'u}do Conceitual e Aspectos Pr{\'a}ticos da
+  Ci{\^e}ncia da Computa{\c{c}}{\~a}o}, Ponte Grossa, ed. 1}, p. 264-278,
+  2020.}
+
+\bibitem[Maduranga e Taparugssanagorn 2014]{maduranga2014}
+\abntrefinfo{Maduranga e Taparugssanagorn}{MADURANGA; TAPARUGSSANAGORN}{2014}
+{MADURANGA, M. W.~P.; TAPARUGSSANAGORN, A. \normalfont{RFID Localization
+  Estimation Techniques for Indoor Environment}.
+\emph{\normalfont \textbf{International research Conference Proceedings:
+  Engineering (KDU IRC)}, Sri Lanka, p. 18-22}, 2014.}
+
+\bibitem[Mainetti, Patrono e Sergi 2014]{mainetti2014}
+\abntrefinfo{Mainetti, Patrono e Sergi}{MAINETTI; PATRONO; SERGI}{2014}
+{MAINETTI, L.; PATRONO, L.; SERGI, I. \normalfont{A survey on indoor
+  positioning systems}.
+\emph{\normalfont \textbf{22nd International Conference on Software,
+  Telecommunications and Computer Networks (SoftCOM)}, Split, Croatia, p.
+  111-120}, 2014.}
+
+\bibitem[Mari, Kiong e Kim 2018]{mari2018}
+\abntrefinfo{Mari, Kiong e Kim}{MARI; KIONG; KIM}{2018}
+{MARI, S.~K.; KIONG, L.~C.; KIM, L.~H. \normalfont{A hybrid trilateration and
+  fingerprinting approach for indoor localization base on wifi}.
+\emph{\normalfont \textbf{Fourth International Conference on Advances in
+  Computing, Comunication Automation - ICACCA}, Subang Jaya}, p. 1-6, 2018.}
+
+\bibitem[Mendes, Lima e Coutinho 2021]{mendes2021}
+\abntrefinfo{Mendes, Lima e Coutinho}{MENDES; LIMA; COUTINHO}{2021}
+{MENDES, L.~F.; LIMA, S. J.~R.; COUTINHO, E.~F. \normalfont{An{\'a}lise da
+  Aplica{\c{c}}{\~a}o da T{\'e}cnica de Trilatera{\c{c}}{\~a}o em Redes de
+  Sensores Wi-Fi para Localiza{\c{c}}{\~a}o em Ambientes Indoor}.
+\emph{\normalfont \textbf{XXXIX Simp{\'o}sio Brasileiro de
+  Telecomunica{\c{c}}{\~o}e e Processamento de Sinais}, Fortaleza, CE}, 2021.}
+
+\bibitem[Mittelstadt 2018]{mittelstadt2018}
+\abntrefinfo{Mittelstadt}{MITTELSTADT}{2018}
+{MITTELSTADT, R.~S. \textbf{BLUEPATH}: Sistema de localiza{\c{c}}{\~a}o
+  \textit{indoor}. 2018.
+\emph{\normalfont Monografia (Curso de Engenharia de Computa{\c{c}}{\~a}o) --
+  Universidade do Vale do Taquari - UNIVATES}, Lajeado, RS, 2018.}
+
+\bibitem[Moreira, Farias e Carvalho 2017]{moreira2017}
+\abntrefinfo{Moreira, Farias e Carvalho}{MOREIRA; FARIAS; CARVALHO}{2017}
+{MOREIRA, F.~M.; FARIAS, M.~S.; CARVALHO, P. V.~R. \normalfont{Posicionamento
+  em Ambientes Internos com Dispositivos Wi-Fi de Baixo Custo}.
+\emph{\normalfont \textbf{International Nuclear Atlantic Conference - INAC},
+  Belo Horizonte, MG, n. 13}, p. 22-27, 2017.}
+
+\bibitem[Nasteski 2017]{nasteski2017}
+\abntrefinfo{Nasteski}{NASTESKI}{2017}
+{NASTESKI, V. \normalfont{An overview of the supervised machine learning}.
+\emph{\normalfont \textbf{Horizons}, Bitola, v. 4}, p. 51-62, 2017.}
+
+\bibitem[Nessa \emph{et al.} 2020]{nessa2020}
+\abntrefinfo{Nessa \emph{et al.}}{NESSA \emph{et al.}}{2020}
+{NESSA, A. \emph{et al.} \normalfont{A Survey of Machine Learning for Indoor
+  Positioning}.
+\emph{\normalfont \textbf{IEEE Access}, Canada, p. 214945-214965}, 2020.}
+
+\bibitem[Oliveira 2021]{oliveira2021}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2021}
+{OLIVEIRA, A. F.~D. \textbf{Localiza{\c{c}}{\~a}o 3D em ambientes internos com
+  Redes bluetooth low energy utilizando t{\'e}cnicas de aprendizando de
+  m{\'a}quina}. 2021.
+\emph{\normalfont Disserta{\c{c}}{\~a}o de Mestrado (Mestrado em Engenharia
+  El{\'e}trica) -- Universidade Estadual Paulista}, Sorocaba, SP, 2021.}
+
+\bibitem[Oliveira 2017]{oliveira2017}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2017}
+{OLIVEIRA, G. C.~D. \textbf{Localiza{\c{c}}{\~a}o \textit{indoor} utilizando a
+  tecnologia LoRaWAN e aprendizado de m{\'a}quina}. 2017.
+\emph{\normalfont Monografia (Curso de Engenharia de
+  Telecomunica{\c{c}}{\~o}es) -- Instituto Federal de Santa Catarina - IFSC},
+  S{\~a}o Jos{\'e}, SC, 2017.}
+
+\bibitem[Rappaport 2008]{rappaport2008}
+\abntrefinfo{Rappaport}{RAPPAPORT}{2008}
+{RAPPAPORT, T.~S. \emph{\normalfont \textbf{Comunica{\c{c}}{\~o}es sem fio}:
+  princ{\'i}pios e pr{\'a}ticas. 2. ed.} São Paulo: Pearson Education, 2008.}
+
+\bibitem[Reck 2016]{reck2016}
+\abntrefinfo{Reck}{RECK}{2016}
+{RECK, M.~S. \textbf{Beacons BLE - BLUETOOTH LOW ENERGY - Design e An{\'a}lise
+  de um sistema de localiza{\c{c}}{\~a}o \textit{indoor}}. 2016.
+\emph{\normalfont Monografia (Curso de Engenharia de Controle e
+  Automa{\c{c}}{\~a}o) -- Universidade de Caxias do Sul - USC}, Caxias do Sul,
+  RS, 2016.}
+
+\bibitem[Sadowski e Spachos 2018]{sadowski2018}
+\abntrefinfo{Sadowski e Spachos}{SADOWSKI; SPACHOS}{2018}
+{SADOWSKI, S.; SPACHOS, P. \normalfont{RSSI-Based Indoor Localization With the
+  Internet of Things}.
+\emph{\normalfont \textbf{IEEE Access}, Canada, v. 6}, p. 30149-30161, 2018.}
+
+\bibitem[Shen, Molisch e Salmi 2012]{shen2012}
+\abntrefinfo{Shen, Molisch e Salmi}{SHEN; MOLISCH; SALMI}{2012}
+{SHEN, J.; MOLISCH, A.~F.; SALMI, J. \normalfont{Accurate Passive Location
+  Estimation Using TOA Measurements}.
+\emph{\normalfont \textbf{IEEE Transactions on Wireless Communications},
+  [\textit{s. l.}], v. 11, p. 2182-2192}, 2012.}
+
+\bibitem[Sim{\~o}es 2020]{simoes2020}
+\abntrefinfo{Sim{\~o}es}{SIM{\~O}ES}{2020}
+{SIM{\~O}ES, W. C. S.~S. \textbf{Uma Abordagem H{\'i}brida Para Planejamento de
+  Rotas e Controle de Navega{\c{c}}{\~a}o de Deficientes Visuais em Ambientes
+  indoor}. 2020.
+\emph{\normalfont Tese (Doutorado em Inform{\'a}tica) -- Universidade Federal
+  do Amazonas}, Amazonas, AM, 2020.}
+
+\bibitem[Sun \emph{et al.} 2017]{sun2017}
+\abntrefinfo{Sun \emph{et al.}}{SUN \emph{et al.}}{2017}
+{SUN, Y. \emph{et al.} \normalfont{Human Localization Using Multi-Source
+  Heterogeneous Data in indoor Environments}.
+\emph{\normalfont \textbf{IEEE Access}, China}, v. 5, p. 812-822, 2017.
+Dispon{\'\i}vel em: \url{https://ieeexplore.ieee.org/document/7812597}. Acesso
+  em: 17 Jul. 2021.}
+
+\bibitem[Tatsch 2019]{tatsch2019}
+\abntrefinfo{Tatsch}{TATSCH}{2019}
+{TATSCH, D.~T. \textbf{Localiza{\c{c}}{\~a}o \textit{indoor} utilizando
+  \textit{Bluetooth Low Energy} e aprendizado de m{\'a}quina}. 2019.
+\emph{\normalfont Monografia (Curso de Engenharia de
+  Telecomunica{\c{c}}{\~o}es) -- Instituto Federal de Santa Catarina}, S{\~a}o
+  Jos{\'e}, SC, 2019.}
+
+\bibitem[Weerasinghe e Dissanayake 2019]{weerasinghe2019}
+\abntrefinfo{Weerasinghe e Dissanayake}{WEERASINGHE; DISSANAYAKE}{2019}
+{WEERASINGHE, Y. S.~P.; DISSANAYAKE, M.~B. \normalfont{Towards IoT; Comparison
+  of RSS based indoor localization using supervised learning and trilateration
+  in WSN}.
+\emph{\normalfont \textbf{International Conference on Industrial an Information
+  Systems - ICIISS}, Perandeniy, Sri Lanka}, p. 290-295, 2019.}
+
+\bibitem[Yi \emph{et al.} 2018]{yi2018}
+\abntrefinfo{Yi \emph{et al.}}{YI \emph{et al.}}{2018}
+{YI, G.~H. \emph{et al.} \normalfont{An Adaptive Wi-Fi Trilateration-based
+  indoor Localization}.
+\emph{\normalfont \textbf{International Conference on Intelligent and Advanced
+  System - ICIAS}, Kuala Lumpur, Malaysia, n. 7}, p. 1-6, 2018.}
+
+\end{thebibliography}
